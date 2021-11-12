@@ -1,0 +1,570 @@
+Initialise logo...
+
+CColors::ReadColorsFromFile: Registered color: HUD_COLOUR_RED - #C25050FF
+
+CColors::ReadColorsFromFile: Registered color: HUD_COLOR_GREEN - #669868FF
+
+CColors::ReadColorsFromFile: Registered color: HUD_COLOUR_BLUEDARK - #2F5C73FF
+
+CColors::ReadColorsFromFile: Registered color: HUD_COLOUR_BLUELIGHT - #AEDBF2FF
+
+CColors::ReadColorsFromFile: Registered color: HUD_COLOUR_WHITE - #F0F0F0FF
+
+CColors::ReadColorsFromFile: Registered color: HUD_COLOUR_BLACK - #000FF
+
+CColors::ReadColorsFromFile: Registered color: HUD_COLOUR_YELLOWDARK - #E0C265FF
+
+CColors::ReadColorsFromFile: Registered color: HUD_COLOUR_PURPLE - #644F8EFF
+
+CColors::ReadColorsFromFile: Registered color: HUD_COLOUR_GREY - #9B9B9BFF
+
+CColors::ReadColorsFromFile: Registered color: HUD_COLOUR_REDDARK - #612828FF
+
+CColors::ReadColorsFromFile: Registered color: HUD_COLOUR_GREENDARK - #344D35FF
+
+CColors::ReadColorsFromFile: Registered color: HUD_COLOUR_YELLOW - #F0C850FF
+
+CColors::ReadColorsFromFile: Registered color: HUD_COLOUR_GREYDARK - #4D4D4DFF
+
+CColors::ReadColorsFromFile: Registered color: HUD_COLOUR_BLUE - #2F6FB7FF
+
+CColors::ReadColorsFromFile: Registered color: HUD_COLOUR_YELLOWLIGHT - #FEEBA9FF
+
+CColors::ReadColorsFromFile: Registered color: HUD_COLOUR_PURE_WHITE - #FFFFFFFF
+
+CColors::ReadColorsFromFile: Registered color: HUD_COLOUR_RADAR_HEALTH - #359A47FF
+
+CColors::ReadColorsFromFile: Registered color: HUD_COLOUR_RADAR_ARMOUR - #5DB6E5FF
+
+CColors::ReadColorsFromFile: Registered color: HUD_COLOUR_RADAR_BREATH - #EBEC27FF
+
+CColors::ReadColorsFromFile: Registered color: HUD_COLOUR_RADAR_DAMAGE - #FD294FFF
+
+CColors::ReadColorsFromFile: Registered color: HUD_COLOUR_PROGRESS_ADD - #2F6FB7FF
+
+CColors::ReadColorsFromFile: Registered color: HUD_COLOUR_PROGRESS_SUB - #BE3232FF
+
+CColors::ReadColorsFromFile: Registered color: HUD_COLOUR_COPS_BLUE - #0507DFF
+
+CColors::ReadColorsFromFile: Registered color: HUD_COLOUR_COPS_RED - #780AFF
+
+Initialise hud...
+
+CControls.cpp: Registered control key: WEAPON_WHEEL_DISPLAY with type SCRIPT
+
+CControls.cpp: Registered control key: WEAPON_WHEEL_DISPLAY with type VK
+
+CControls.cpp: Registered control key: WEAPON_WHEEL_DISPLAY with type VK
+
+CControls.cpp: Registered control key: WEAPON_WHEEL_WEAPON_NEXT with type SCRIPT
+
+CControls.cpp: Registered control key: WEAPON_WHEEL_WEAPON_PREV with type SCRIPT
+
+CControls.cpp: Registered control key: WEAPON_WHEEL_WEAPON_PREV with type VK
+
+CControls.cpp: Registered control key: WEAPON_WHEEL_WEAPON_NEXT with type VK
+
+CControls.cpp: Registered control key: WEAPON_PARACHUTE with type VK
+
+CControls.cpp: Registered control key: WEAPON_PARACHUTE with type SCRIPT
+
+CControls.cpp: Registered control key: WEAPON_SELECT_SLOT with type MOUSE
+
+CControls.cpp: Registered control key: WEAPON_SELECT_SLOT with type VK
+
+CControls.cpp: Registered control key: PHONE_DISPLAY with type VK
+
+CControls.cpp: Registered control key: HUD_INSTANT_DISPLAY with type VK
+
+Game Mode: Multiplayer
+
+Next-Gen enabled. 
+Initialise weapon selector...
+
+____**ALLOCATED**: tWeaponInSlotData[20] @ CWeaponSelector::m_aSlots[0].m_pWeaponList @ CWeaponSelector.cpp:ReadSlot
+
+Loading slot 0
+
+  Loading weapon Unarmed
+
+____LOADED_TEXTURE VHUD_UNARMED, TEXTURES_LOADED: 1
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\unarmed.png
+
+  Loading weapon Brass Knuckles
+
+____LOADED_TEXTURE VHUD_BRASSKNUCKLE, TEXTURES_LOADED: 2
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\brass_knuckles.png
+
+  Loading weapon Golf Club
+
+____LOADED_TEXTURE VHUD_GOLFCLUB, TEXTURES_LOADED: 3
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\golf_club.png
+
+  Loading weapon Night Stick
+
+____LOADED_TEXTURE VHUD_NIGHTSTICK, TEXTURES_LOADED: 4
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\night_stick.png
+
+  Loading weapon Knife
+
+____LOADED_TEXTURE VHUD_KNIFE, TEXTURES_LOADED: 5
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\knife.png
+
+  Loading weapon Baseball Bat
+
+____LOADED_TEXTURE VHUD_BASEBALLBAT, TEXTURES_LOADED: 6
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\baseball_bat.png
+
+  Loading weapon Shovel
+
+____LOADED_TEXTURE VHUD_SHOVEL, TEXTURES_LOADED: 7
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\shovel.png
+
+  Loading weapon Pool cue
+
+____LOADED_TEXTURE VHUD_POOLCUE, TEXTURES_LOADED: 8
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\pool_cue.png
+
+  Loading weapon Katana
+
+____LOADED_TEXTURE VHUD_KATANA, TEXTURES_LOADED: 9
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\katana.png
+
+  Loading weapon Chainsaw
+
+____LOADED_TEXTURE VHUD_CHAINSAW, TEXTURES_LOADED: 10
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\chainsaw.png
+
+  Loading weapon Dildo 1
+
+____LOADED_TEXTURE VHUD_DILDO1, TEXTURES_LOADED: 11
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\dildo_1.png
+
+  Loading weapon Dildo 2
+
+____LOADED_TEXTURE VHUD_DILDO2, TEXTURES_LOADED: 12
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\dildo_2.png
+
+  Loading weapon Vibe 1
+
+____LOADED_TEXTURE VHUD_VIBE1, TEXTURES_LOADED: 13
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\vibe_1.png
+
+  Loading weapon Vibe 2
+
+____LOADED_TEXTURE VHUD_VIBE2, TEXTURES_LOADED: 14
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\vibe_2.png
+
+  Loading weapon Flowers
+
+____LOADED_TEXTURE VHUD_FLOWERS, TEXTURES_LOADED: 15
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\flowers.png
+
+  Loading weapon Cane
+
+____LOADED_TEXTURE VHUD_CANE, TEXTURES_LOADED: 16
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\cane.png
+
+  Loading weapon Spray Paint
+
+____LOADED_TEXTURE VHUD_SPRAYCAN, TEXTURES_LOADED: 17
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\spray_paint.png
+
+  Loading weapon Camera
+
+____LOADED_TEXTURE VHUD_CAMERA, TEXTURES_LOADED: 18
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\camera.png
+
+  Loading weapon Nightvision Goggles
+
+____LOADED_TEXTURE VHUD_NIGHTVISION, TEXTURES_LOADED: 19
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\nightvision_goggles.png
+
+  Loading weapon Thermal Goggles
+
+____LOADED_TEXTURE VHUD_INFRARED, TEXTURES_LOADED: 20
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\thermal_goggles.png
+
+____**ALLOCATED**: tWeaponInSlotData[3] @ CWeaponSelector::m_aSlots[1].m_pWeaponList @ CWeaponSelector.cpp:ReadSlot
+
+Loading slot 1
+
+  Loading weapon Shotgun
+
+____LOADED_TEXTURE VHUD_SHOTGUN, TEXTURES_LOADED: 21
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\shotgun.png
+
+  Loading weapon Sawn Off
+
+____LOADED_TEXTURE VHUD_SAWNOFF, TEXTURES_LOADED: 22
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\sawn_off.png
+
+____LOADED_TEXTURE VHUD_2SAWNOFF, TEXTURES_LOADED: 23
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\sawn_off_double.png
+
+  Loading weapon Spas 12
+
+____LOADED_TEXTURE VHUD_SPAS12, TEXTURES_LOADED: 24
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\spas_12.png
+
+____**ALLOCATED**: tWeaponInSlotData[5] @ CWeaponSelector::m_aSlots[2].m_pWeaponList @ CWeaponSelector.cpp:ReadSlot
+
+Loading slot 2
+
+  Loading weapon RPG
+
+____LOADED_TEXTURE VHUD_RLAUNCHER, TEXTURES_LOADED: 25
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\rpg.png
+
+  Loading weapon Missile Launcher
+
+____LOADED_TEXTURE VHUD_RLAUNCHER_HS, TEXTURES_LOADED: 26
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\missile_launcher.png
+
+  Loading weapon Minigun
+
+____LOADED_TEXTURE VHUD_MINIGUN, TEXTURES_LOADED: 27
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\minigun.png
+
+  Loading weapon Flame Thrower
+
+____LOADED_TEXTURE VHUD_FTHROWER, TEXTURES_LOADED: 28
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\flame_thrower.png
+
+  Loading weapon Fire Extinguisher
+
+____LOADED_TEXTURE VHUD_EXTINGUISHER, TEXTURES_LOADED: 29
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\fire_extinguisher.png
+
+____**ALLOCATED**: tWeaponInSlotData[5] @ CWeaponSelector::m_aSlots[3].m_pWeaponList @ CWeaponSelector.cpp:ReadSlot
+
+Loading slot 3
+
+  Loading weapon Grenade
+
+____LOADED_TEXTURE VHUD_GRENADE, TEXTURES_LOADED: 30
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\grenade.png
+
+  Loading weapon Tear Gas
+
+____LOADED_TEXTURE VHUD_TEARGAS, TEXTURES_LOADED: 31
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\tear_gas.png
+
+  Loading weapon Molotov
+
+____LOADED_TEXTURE VHUD_MOLOTOV, TEXTURES_LOADED: 32
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\molotov.png
+
+  Loading weapon Sachet Charge
+
+____LOADED_TEXTURE VHUD_SATCHEL_CHARGE, TEXTURES_LOADED: 33
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\sachet_charge.png
+
+  Loading weapon Detonator
+
+____LOADED_TEXTURE VHUD_DETONATOR, TEXTURES_LOADED: 34
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\detonator.png
+
+____**ALLOCATED**: tWeaponInSlotData[3] @ CWeaponSelector::m_aSlots[4].m_pWeaponList @ CWeaponSelector.cpp:ReadSlot
+
+Loading slot 4
+
+  Loading weapon Pistol
+
+____LOADED_TEXTURE VHUD_PISTOL, TEXTURES_LOADED: 35
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\pistol.png
+
+____LOADED_TEXTURE VHUD_2PISTOL, TEXTURES_LOADED: 36
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\pistol_double.png
+
+  Loading weapon Silenced Pistol
+
+____LOADED_TEXTURE VHUD_PISTOL_SILENCED, TEXTURES_LOADED: 37
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\silenced_pistol.png
+
+  Loading weapon Desert Eagle
+
+____LOADED_TEXTURE VHUD_DESERT_EAGLE, TEXTURES_LOADED: 38
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\desert_eagle.png
+
+____**ALLOCATED**: tWeaponInSlotData[3] @ CWeaponSelector::m_aSlots[5].m_pWeaponList @ CWeaponSelector.cpp:ReadSlot
+
+Loading slot 5
+
+  Loading weapon Micro Uzi
+
+____LOADED_TEXTURE VHUD_MICRO_UZI, TEXTURES_LOADED: 39
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\micro_uzi.png
+
+____LOADED_TEXTURE VHUD_2MICRO_UZI, TEXTURES_LOADED: 40
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\micro_uzi_double.png
+
+  Loading weapon MP5
+
+____LOADED_TEXTURE VHUD_MP5, TEXTURES_LOADED: 41
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\mp5.png
+
+  Loading weapon Tec 9
+
+____LOADED_TEXTURE VHUD_TEC9, TEXTURES_LOADED: 42
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\tec_9.png
+
+____LOADED_TEXTURE VHUD_2TEC9, TEXTURES_LOADED: 43
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\tec_9_double.png
+
+____**ALLOCATED**: tWeaponInSlotData[2] @ CWeaponSelector::m_aSlots[6].m_pWeaponList @ CWeaponSelector.cpp:ReadSlot
+
+Loading slot 6
+
+  Loading weapon AK-47
+
+____LOADED_TEXTURE VHUD_AK47, TEXTURES_LOADED: 44
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\ak-47.png
+
+  Loading weapon M4
+
+____LOADED_TEXTURE VHUD_M4, TEXTURES_LOADED: 45
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\m4.png
+
+____**ALLOCATED**: tWeaponInSlotData[2] @ CWeaponSelector::m_aSlots[7].m_pWeaponList @ CWeaponSelector.cpp:ReadSlot
+
+Loading slot 7
+
+  Loading weapon Rifle
+
+____LOADED_TEXTURE VHUD_COUNTRYRIFLE, TEXTURES_LOADED: 46
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\rifle.png
+
+  Loading weapon Sniper Rifle
+
+____LOADED_TEXTURE VHUD_SNIPERRIFLE, TEXTURES_LOADED: 47
+
+    Loading texture GTAVHud_by_DK22Pac\weapon\weapons\sniper_rifle.png
+
+CWeaponSelector.cpp: Registered sound: SWITCH_ON with id 14 volume -5.000000
+
+CWeaponSelector.cpp: Registered sound: SWITCH_OFF with id 7 volume -0.500000
+
+CWeaponSelector.cpp: Registered sound: CHANGE_SLOT with id 38 volume -0.500000
+
+CWeaponSelector.cpp: Registered sound: CHANGE_WEAPON with id 41 volume -20.000000
+
+____LOADED_TEXTURE VHUD_wepPara, TEXTURES_LOADED: 48
+
+Initialise radar...
+
+____LOADED_TEXTURE VHUD_radarRect, TEXTURES_LOADED: 49
+
+____LOADED_TEXTURE VHUD_radarRect2p, TEXTURES_LOADED: 50
+
+____LOADED_TEXTURE VHUD_radarPlaneMask, TEXTURES_LOADED: 51
+
+____LOADED_TEXTURE VHUD_radarPlane, TEXTURES_LOADED: 52
+
+____LOADED_TEXTURE VHUD_radarDamage, TEXTURES_LOADED: 53
+
+____LOADED_TEXTURE VHUD_radarLower, TEXTURES_LOADED: 54
+
+____LOADED_TEXTURE VHUD_radarHigher, TEXTURES_LOADED: 55
+
+____LOADED_TEXTURE VHUD_radarLevel, TEXTURES_LOADED: 56
+
+____LOADED_TEXTURE VHUD_radarMask, TEXTURES_LOADED: 57
+
+CNewRadar::Init() :: Loading shader "effects\radar_gps.fxc"
+Initialise panels...
+
+____LOADED_TEXTURE VHUD_menuSelector, TEXTURES_LOADED: 58
+
+____LOADED_TEXTURE VHUD_menuBought, TEXTURES_LOADED: 59
+
+____LOADED_TEXTURE VHUD_menu_iconWeapon, TEXTURES_LOADED: 60
+
+____LOADED_TEXTURE VHUD_menu_iconClothes, TEXTURES_LOADED: 61
+
+____LOADED_TEXTURE VHUD_menu_iconCar, TEXTURES_LOADED: 62
+
+____LOADED_TEXTURE VHUD_panelTitleTex62, TEXTURES_LOADED: 63
+
+CNewPanels.cpp: LoadTexture: Loaded texture GTAVHud_by_DK22Pac\menus\ammu-nation.png
+
+____LOADED_TEXTURE VHUD_panelTitleTex63, TEXTURES_LOADED: 64
+
+CNewPanels.cpp: LoadTexture: Loaded texture GTAVHud_by_DK22Pac\menus\ammu-nation_pattern.png
+
+____LOADED_TEXTURE VHUD_panelTitleTex64, TEXTURES_LOADED: 65
+
+CNewPanels.cpp: LoadTexture: Loaded texture GTAVHud_by_DK22Pac\menus\binco.png
+
+____LOADED_TEXTURE VHUD_panelTitleTex65, TEXTURES_LOADED: 66
+
+CNewPanels.cpp: LoadTexture: Loaded texture GTAVHud_by_DK22Pac\menus\binco_pattern.png
+
+____LOADED_TEXTURE VHUD_panelTitleTex66, TEXTURES_LOADED: 67
+
+CNewPanels.cpp: LoadTexture: Loaded texture GTAVHud_by_DK22Pac\menus\car_spawner.png
+
+____LOADED_TEXTURE VHUD_panelTitleTex67, TEXTURES_LOADED: 68
+
+CNewPanels.cpp: LoadTexture: Loaded texture GTAVHud_by_DK22Pac\menus\car_spawner_pattern.png
+
+CDeathScreen::Init() :: Loading shader "effects\black_n_white.fxc"
+____LOADED_TEXTURE VHUD_boxCorner, TEXTURES_LOADED: 69
+
+____LOADED_TEXTURE VHUD_timerRect, TEXTURES_LOADED: 70
+
+____LOADED_TEXTURE VHUD_skipIcon, TEXTURES_LOADED: 71
+
+Initialising RadioHud...
+____LOADED_TEXTURE VHUD_radioCurrent, TEXTURES_LOADED: 72
+
+____LOADED_TEXTURE VHUD_radio_1, TEXTURES_LOADED: 73
+
+____LOADED_TEXTURE VHUD_radio_2, TEXTURES_LOADED: 74
+
+____LOADED_TEXTURE VHUD_radio_3, TEXTURES_LOADED: 75
+
+____LOADED_TEXTURE VHUD_radio_4, TEXTURES_LOADED: 76
+
+____LOADED_TEXTURE VHUD_radio_5, TEXTURES_LOADED: 77
+
+____LOADED_TEXTURE VHUD_radio_6, TEXTURES_LOADED: 78
+
+____LOADED_TEXTURE VHUD_radio_7, TEXTURES_LOADED: 79
+
+____LOADED_TEXTURE VHUD_radio_8, TEXTURES_LOADED: 80
+
+____LOADED_TEXTURE VHUD_radio_9, TEXTURES_LOADED: 81
+
+____LOADED_TEXTURE VHUD_radio_10, TEXTURES_LOADED: 82
+
+____LOADED_TEXTURE VHUD_radio_11, TEXTURES_LOADED: 83
+
+____LOADED_TEXTURE VHUD_radio_12, TEXTURES_LOADED: 84
+
+____LOADED_TEXTURE VHUD_radio_13, TEXTURES_LOADED: 85
+
+CRadioHud: Station 0 num songs 12
+CRadioHud: Station 1 num songs 15
+CRadioHud: Station 2 num songs 17
+CRadioHud: Station 3 num songs 17
+CRadioHud: Station 4 num songs 16
+CRadioHud: Station 5 num songs 16
+CRadioHud: Station 6 num songs 15
+CRadioHud: Station 7 num songs 13
+CRadioHud: Station 8 num songs 16
+CRadioHud: Station 9 num songs 18
+Initialising GPS...
+____LOADED_TEXTURE VHUD_pathDir, TEXTURES_LOADED: 86
+
+CNewMenu::Initialise() :: Loading shader "effects\blur.fxc"
+____LOADED_TEXTURE VHUD_blipHeli, TEXTURES_LOADED: 87
+
+____LOADED_TEXTURE VHUD_blipCop, TEXTURES_LOADED: 88
+
+____LOADED_TEXTURE VHUD_phone, TEXTURES_LOADED: 89
+
+____LOADED_TEXTURE VHUD_charBckg, TEXTURES_LOADED: 90
+
+____LOADED_TEXTURE VHUD_charLine1p, TEXTURES_LOADED: 91
+
+Reading crosshairs.dat...
+____LOADED_TEXTURE VHUD_chair_1, TEXTURES_LOADED: 92
+
+Crosshair 255 255 w 16.00 h 16.00 dot 6.00 texture GTAVHud_by_DK22Pac\crosshair\crosshairs\pistol.png
+22
+23
+24
+Reading crosshairs.dat...
+____LOADED_TEXTURE VHUD_chair_2, TEXTURES_LOADED: 93
+
+Crosshair 255 255 w 16.00 h 16.00 dot 6.00 texture GTAVHud_by_DK22Pac\crosshair\crosshairs\smg.png
+28
+29
+32
+Reading crosshairs.dat...
+____LOADED_TEXTURE VHUD_chair_3, TEXTURES_LOADED: 94
+
+Crosshair 0 255 w 16.00 h 16.00 dot 6.00 texture GTAVHud_by_DK22Pac\crosshair\crosshairs\assault.png
+30
+31
+Reading crosshairs.dat...
+____LOADED_TEXTURE VHUD_chair_4, TEXTURES_LOADED: 95
+
+Crosshair 255 255 w 32.00 h 32.00 dot 6.00 texture GTAVHud_by_DK22Pac\crosshair\crosshairs\shotgun.png
+25
+26
+27
+Reading crosshairs.dat...
+____LOADED_TEXTURE VHUD_dotChair, TEXTURES_LOADED: 96
+
+____LOADED_TEXTURE VHUD_redDot, TEXTURES_LOADED: 97
+
+____LOADED_TEXTURE VHUD_sniperChair, TEXTURES_LOADED: 98
+
+____LOADED_TEXTURE VHUD_rocketChair, TEXTURES_LOADED: 99
+
+____LOADED_TEXTURE VHUD_sniperTarget, TEXTURES_LOADED: 100
+
+CCrosshairs::Init() :: Loading shader "effects\crosshairlens.fxc"
+CCrosshairs::Init() :: Loading shader "effects\crosshairblur.fxc"
+____LOADED_TEXTURE VHUD_star1, TEXTURES_LOADED: 101
+
+____LOADED_TEXTURE VHUD_star2, TEXTURES_LOADED: 102
+
+____LOADED_TEXTURE VHUD_featureStar, TEXTURES_LOADED: 103
+
+____LOADED_TEXTURE VHUD_player1photo, TEXTURES_LOADED: 104
+
+____UNLOADED_TEXTURE VHUD_player1photo, TEXTURES_LEFT: 103
+
+____LOADED_TEXTURE VHUD_player1photo, TEXTURES_LOADED: 104
+
+____UNLOADED_TEXTURE VHUD_player1photo, TEXTURES_LEFT: 103
+
